@@ -2,13 +2,13 @@
 Hello and Welcome!👋
 
 ## Table of Contents
-[Running the App]()
+[Running the App](https://github.com/bellomuboye/make-we-yarn/blob/main/README.md#running-the-app)
 
-[About]()
+[About](https://github.com/bellomuboye/make-we-yarn/blob/main/README.md#about)
 
-[Technology Stack]()
+[Technology Stack](https://github.com/bellomuboye/make-we-yarn/blob/main/README.md#technology-stack)
 
-[Contributing/Reviewing]()
+[Contributing/Reviewing](https://github.com/bellomuboye/make-we-yarn/blob/main/README.md#contributingreviewing)
 
 ## Running the App
 To begin:
